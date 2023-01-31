@@ -1,0 +1,16 @@
+EmployeeID,Username,GivenName,SurName,DisplayName,UserPrincipalName,StreetAdress,City,State,ZipCode,Password,Telephone number,Department,Occupation,Path,Office
+1,jorge.gomez,Jorge,Gomez,Ing.Jorge,jorge.gomez@adatum.net,Laureles 17,Guadalajara,Jalisco,4424,Alexis2013,3319769247,Mantenimiento,Gerente,"OU=Mantenimiento,OU=Areas_de_Trabajo,DC=adatum,DC=net",Matriz
+2,raul.lopez,Raul,Lopez,Ing.Raul,raul.lopez@adatum.net,Flores 2456,Guadalajara,Jalisco,313,Alexis2013,3388446633,Mantenimiento,Jefe,"OU=Mantenimiento,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
+3,alex.medina,Alex,Medina,Ing.Alex,alex.medina@adatum.net,Rincon 923,Guadalajara,Jalisco,2134,Alexis2013,3399225511,Mantenimiento,Gerente,"OU=Mantenimiento,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
+4,jose.torres,Jose,Torres,Ing.Jose,jose.torres@adatum.net,Torres 23,Guadalajara,Jalisco,446,Alexis2013,4455772244,Mantenimiento,Supervisor,"OU=Mantenimiento,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
+5,ronaldo.cota,Ronaldo,Cota,Ing.Ronaldo,ronaldo.cota@adatum.net,Olimpica 45,Guadalajara,Jalisco,3456,Alexis2013,5588334466,Mantenimiento,Supervisor,"OU=Mantenimiento,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
+6,omar.bravo,Omar,Bravo,Ing.Omar,omar.bravo@adatum.net,Agavez 24,Guadalajara,Jalisco,3245,Alexis2013,3344667711,Seguridad,Gerente,"OU=Seguridad,OU=Areas_de_Trabajo,DC=adatum,DC=net",Matriz
+7,jose.gallardo,Jose,Gallardo,"Ing,Jose",jose.gallardo@adatum.net,Lomas 3955,Guadalajara,Jalisco,2342,Alexis2013,3377247479,Seguridad,Gerente,"OU=Seguridad,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
+8,karla.sanchez,Karla,Sanchez,Ing.Karla,karla.sanchez@adatum.net,Colomos 923,Guadalajara,Jalisco,3434,Alexis2013,3399553960,Seguridad,Gerente,"OU=Seguridad,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
+9,cristian.castro,Cristian,Castro,Ing.Cristian,cristian.castro@adatum.net,Lazaro 93,Guadalajara,Jalisco,34,Alexis2013,3367347945,Seguridad,Supervisor,"OU=Seguridad,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
+10,jaime.calderon,Jaime,Calderon,Ing.Jaime,jaime.calderon@adatum.net,Legaspi 9234,Guadalajara,Jalisco,64,Alexis2013,4476928509,Seguridad,Supervisor,"OU=Seguridad,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
+11,vasco.aguirre,Vasco,Aguirre,Ing.Vasco,vasco.aguirre@adatum.net,Give 3934,Guadalajara,Jalisco,3456,Alexis2013,4477226934,Soporte,Gerente,"OU=Soporte,OU=Areas_de_Trabajo,DC=adatum,DC=net",Matriz
+12,jorge.mata,Jorge,Mata,Ing.Jorge,jorge.mata@adatum.net,Celerino 934,Guadalajara,Jalisco,3466,Alexis2013,3384154678,Soporte,Gerente,"OU=Soporte,OU=Areas_de_Trabajo,DC=adatum,DC=net",Matriz
+13,walter.sandoval,Walter,Sandoval,Ing.Walter,walter.sandoval@adatum.net,Jalisco 934,Guadalajara,Jalisco,643,Alexis2013,4455772244,Soporte,Supervisor,"OU=Soporte,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
+14,carmen.correa,Carmen,Correa,Ing.Carmen,carmen.correa@adatum.net,Mexicali 934,Guadalajara,Jalisco,356,Alexis2013,5577142345,Soporte,Supervisor,"OU=Soporte,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
+15,benue.sanchez,Benue,Sanchez,Ing.Benue,benue.sanchez@adatum.net,Cocula 934,Guadalajara,Jalisco,5353,Alexis2013,223523467,Soporte,Supervisor,"OU=Soporte,OU=Areas_de_Trabajo,DC=adatum,DC=net",Sucursal
